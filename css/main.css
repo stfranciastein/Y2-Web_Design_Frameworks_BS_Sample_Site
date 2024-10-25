@@ -1,4 +1,172 @@
 @charset "UTF-8";
+.bg-blue {
+  background-color: #0d6efd;
+}
+
+.bg-color-light {
+  background-color: #9ec5fe;
+}
+
+.bg-color-dark {
+  background-color: #0a58ca;
+}
+
+.bg-indigo {
+  background-color: #6610f2;
+}
+
+.bg-color-light {
+  background-color: #c29ffa;
+}
+
+.bg-color-dark {
+  background-color: #520dc2;
+}
+
+.bg-purple {
+  background-color: #6f42c1;
+}
+
+.bg-color-light {
+  background-color: #c5b3e6;
+}
+
+.bg-color-dark {
+  background-color: #59359a;
+}
+
+.bg-pink {
+  background-color: #d63384;
+}
+
+.bg-color-light {
+  background-color: #efadce;
+}
+
+.bg-color-dark {
+  background-color: #ab296a;
+}
+
+.bg-red {
+  background-color: #dc3545;
+}
+
+.bg-color-light {
+  background-color: #f1aeb5;
+}
+
+.bg-color-dark {
+  background-color: #b02a37;
+}
+
+.bg-orange {
+  background-color: #fd7e14;
+}
+
+.bg-color-light {
+  background-color: #fecba1;
+}
+
+.bg-color-dark {
+  background-color: #ca6510;
+}
+
+.bg-yellow {
+  background-color: #ffc107;
+}
+
+.bg-color-light {
+  background-color: #ffe69c;
+}
+
+.bg-color-dark {
+  background-color: #cc9a06;
+}
+
+.bg-green {
+  background-color: #198754;
+}
+
+.bg-color-light {
+  background-color: #a3cfbb;
+}
+
+.bg-color-dark {
+  background-color: #146c43;
+}
+
+.bg-teal {
+  background-color: #20c997;
+}
+
+.bg-color-light {
+  background-color: #a6e9d5;
+}
+
+.bg-color-dark {
+  background-color: #1aa179;
+}
+
+.bg-cyan {
+  background-color: #0dcaf0;
+}
+
+.bg-color-light {
+  background-color: #9eeaf9;
+}
+
+.bg-color-dark {
+  background-color: #0aa2c0;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.bg-color-light {
+  background-color: #999999;
+}
+
+.bg-color-dark {
+  background-color: black;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-color-light {
+  background-color: white;
+}
+
+.bg-color-dark {
+  background-color: #cccccc;
+}
+
+.bg-gray {
+  background-color: #6c757d;
+}
+
+.bg-color-light {
+  background-color: #c4c8cb;
+}
+
+.bg-color-dark {
+  background-color: #565e64;
+}
+
+.bg-gray-dark {
+  background-color: #343a40;
+}
+
+.bg-color-light {
+  background-color: #aeb0b3;
+}
+
+.bg-color-dark {
+  background-color: #2a2e33;
+}
+
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors
